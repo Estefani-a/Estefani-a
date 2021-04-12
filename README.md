@@ -10,5 +10,6 @@ expertise in Java, data bases and web development.
   
   <h2 align="center">Technologies</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://www.flaticon.es/icono-gratis/java_226777"/>
+   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 </p>
