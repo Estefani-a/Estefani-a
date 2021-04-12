@@ -10,9 +10,9 @@ expertise in Java, data bases and web development.
   
   <h2 align="center">Technologies</h2>
 <p align="center">
-   <img src="Images/java.png" width="50" height="50" /> &nbsp;
-   <img src="Images/piton.png" width="50" height="50" />
-   <img src="Images/java-script.png" width="50" height="50" />
-   <img src="Images/html-5.png" width="50" height="50" />
+   <img src="Images/java.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/piton.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/java-script.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/html-5.png" width="50" height="50" />&nbsp; &nbsp;
    <img src="Images/css-3.png" width="50" height="50" />
 </p>
