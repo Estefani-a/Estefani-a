@@ -10,6 +10,8 @@ expertise in Java, data bases and web development.
   
   <h2 align="center">Technologies</h2>
 <p align="center">
-   <img src=https://img.shields.io/jitpack/v/github/Estefani-a/README.md?logo=JAVA&logoColor=red"/>
+   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/jitpack/v/github/Estefani-a/README,md?logo=JAVA"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 </p>
