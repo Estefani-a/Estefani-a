@@ -12,6 +12,9 @@ expertise in Java, data bases and web development.
 <p align="center">
    <img src="Images/java.png" width="50" height="50" />
    <img src="Images/piton.png" width="50" height="50" />
-   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+   <img src="Images/java-script.png" width="50" height="50" />
+   <img src="Images/html-5.png" width="50" height="50" />
+   <img src="Images/css-3.png" width="50" height="50" />
+ 
    <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 </p>
