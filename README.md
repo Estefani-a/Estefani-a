@@ -1,5 +1,3 @@
-</font>
-<font face="Verdana">
 <h1 align="center"> Hi, I'm Estefanía</h1>
 
 <p align="center">
