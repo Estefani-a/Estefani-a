@@ -30,6 +30,6 @@ expertise in Java, data bases and web development.
 
 <h3 aling="center">Estadisticas</h3>
 <p aling="center>
-   ![Anurag's GitHub stats](https://Estefani-a.vercel.app/api?username=Estefani-a)](https://github.com/Estefani-a/EStefani-a)       
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Estefani-a)](https://github.com/anuraghazra/github-readme-stats)      
           
 </p>
