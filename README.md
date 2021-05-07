@@ -27,3 +27,9 @@ expertise in Java, data bases and web development.
   <a target="_blank"href="mailto:estefaniasassone@gmail.com"><img src="Images/gmail (1).png" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+<h3 aling="center">Estadisticas</h3>
+<p aling="center>
+   ![Anurag's GitHub stats](https://github-readme-Estefani-a.vercel.app/api?username=Estefani-a)](https://github.com/Estefani-a/github-readme-Estefani-a)       
+          
+</p>
