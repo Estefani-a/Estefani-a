@@ -13,6 +13,7 @@ expertise in Java, data bases and web development.
 <p align="center">
    <img src="Images/java.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/angular.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/Spring.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/piton.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/cobol.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/sql.png" width="50" height="50" /> &nbsp; &nbsp;
