@@ -30,3 +30,8 @@ expertise in Java, data bases and web development.
   <a target="_blank"href="mailto:estefaniasassone@gmail.com"><img src="Images/gmail (1).png" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+---
+### 📊 My Stats :
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Estefani-a&show_icons=true&theme=tokyonight)
