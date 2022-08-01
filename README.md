@@ -31,7 +31,7 @@ expertise in Java, data bases and web development.
 
 </p>
 
----
-### 📊 My Stats :
+<h2 aling="center"> My Stats 📊 </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Estefani-a&show_icons=true&theme=tokyonight)
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Estefani-a&show_icons=true&theme=tokyonight" alt=""/></p>
+
