@@ -1,12 +1,16 @@
-<h1 align="center"> Hi 👋🏻, I'm Estefanía</h1>
+<h1 align="center"> Welcome to my profile!</h1>
+<img align="center" src="Images/headerImg.jpg"/>
 
 <p align="center">
   <samp>
-Welcome to my profile!<br/>
+<h2 align="center"> About me 👩🏻</h2>
 <br/>
-I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular
-expertise in Java, data bases and web development.
-  </samp><br><br>
+<br/>
+<p align="center">
+  <font face="Georgia">
+  I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and    Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development. </font>
+</p>
+
 <br><br>
   
 <h2 align="center"> Contact me 📫 </h2>
