@@ -7,12 +7,12 @@
 <br/>
 <br/>
 <p align="center"> 
-  <font face="times new roman">I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development.</font>
+  <font face="courier new">I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development.</font>
 </p>
 
 <br><br>
   
-<h2 align="center"> Contact me 📫 </h2>
+<h2 align="center"> Contact Me 📫 </h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/maria-estefania-sassone"><img src="Images/linkedin.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp; 
   <a target="_blank"href="mailto:estefaniasassone@gmail.com"><img src="Images/gmail (1).png" width="55" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
