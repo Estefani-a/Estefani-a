@@ -3,12 +3,11 @@
 
 <p align="center">
   <samp>
-<h2 align="center"> About me 👩🏻</h2>
+<h2 align="center"> About Me 👩🏻</h2>
 <br/>
 <br/>
-<p align="center">
-  <font face="Georgia">
-  I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and    Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development. </font>
+<p align="center"> 
+  <font face="times new roman">I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development.</font>
 </p>
 
 <br><br>
