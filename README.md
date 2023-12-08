@@ -6,7 +6,7 @@
 <p><h2 align="center"> About Me 👩🏻</h2>
 <br>
 <p align="center"> 
-  <font face="courier new">I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development.</font>
+  <samp> I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development. </samp>
 </p>
 
 <br>
