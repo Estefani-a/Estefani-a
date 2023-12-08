@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> Welcome to my profile!</h1>
-  <img align="center" src="Images/headerImg.jpg" style="max-width: 100%; height: auto;"/>
+  <img align="center" src="Images/headerImg.jpg" width="1000"/>
 </div>
 
 <p><h2 align="center"> About Me 👩🏻</h2>
