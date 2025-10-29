@@ -6,7 +6,7 @@
 <p><h2 align="center"> About Me 👩🏻</h2>
 <br>
 <p align="center"> 
-  <samp> I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in iOS, Cobol, Java, data bases and web development. </samp>
+  <samp> I am sutudent of Bachelor Degree in Systems and software developer junior. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Java, iOS, Go, data bases and web development. </samp>
 </p>
 
 <br>
@@ -22,10 +22,10 @@
 <h2 align="center">Technologies 🛠</h2>
 <p align="center">
    <img src="Images/swift(1).png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/icons8-go-logo-50.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/golangIcon.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/java.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/angular.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/Spring.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/springBoot.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Images/angular2.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/piton.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/cobol.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/sql.png" width="50" height="50" /> &nbsp; &nbsp;
